@@ -1,10 +1,9 @@
-/* Reset CSS para redefinir estilos padrão do navegador */
+
 body, html {
     margin: 0;
     padding: 0;
   }
-  
-  /* Estilos para o cabeçalho */
+
   header {
     background-color: #333;
     color: #fff;
@@ -15,7 +14,7 @@ body, html {
     margin: 0;
   }
   
-  /* Estilos para a navegação */
+
   nav {
     background-color: #666;
     padding: 10px;
@@ -36,15 +35,14 @@ body, html {
     color: #fff;
     text-decoration: none;
   }
-  
-  /* Estilos para o conteúdo principal */
+
   .container {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
   }
   
-  /* Estilos para a seção de serviços */
+
   .services {
     margin-bottom: 30px;
   }
